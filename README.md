@@ -3,10 +3,10 @@
 <h2>Projenin Canlı Hali İçin <a href="http://travelblog.somee.com/">Buraya Tıklayınız</a></h2>
 <br/>
 <h3>Proje Özellikleri</h3>
-<p>✔️ Kullanıcılar, seyahatlerini fotoğraflar eşliğinde siteye yükleyebilir.</p>
 <p>✔️ Blog yazılarına yorum yapma imkânı sunulmuştur.</p>
 <p>✔️ En popüler ve en beğenilen yerler görüntülenebilir.</p>
-<p>✔️ Kullanıcılar, login ve register işlemleri ile sisteme giriş yapabilir.</p>
+<p>✔️ Admin, login ve register işlemleri ile sisteme giriş yapabilir.</p>
+<p>✔️ Admin tarafında yeni blog ekleme işlemleri yapılabilir.</p>
 <br>
 <h3>Admin Paneli Özellikleri</h3>
 <p>✔️ Blog yazıları ve kullanıcı yorumları güncellenebilir, silinebilir veya yeni içerikler eklenebilir.</p>
