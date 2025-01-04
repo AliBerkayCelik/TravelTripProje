@@ -1,0 +1,57 @@
+﻿
+@model TravelTripProje.Models.Siniflar.iletisim
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<div class="contact">
+    <div class="wrap">
+        <div class="contact-top">
+            <h3>İletişim Bilgileri</h3>
+            <p>Mesajınızı aşağıda belirtebilirsiniz.</p>
+        </div>
+        <div class="form">
+            <form class="form-group" method="post">
+                @Html.LabelFor(x => x.AdSoyad)
+                @Html.TextBoxFor(x => x.AdSoyad, new { @class = "form-control" })
+                <br />
+                @Html.LabelFor(x => x.Mail)
+                @Html.TextBoxFor(x => x.Mail, new { @class = "form-control" })
+                <br />
+                @Html.LabelFor(x => x.Konu)
+                @Html.TextBoxFor(x => x.Konu, new { @class = "form-control" })
+                <br />
+                <div class="form1">
+                    <div>
+                        @Html.LabelFor(x => x.Mesaj)
+                        @Html.TextAreaFor(x => x.Mesaj, new { @class = "form-control" })
+                    </div>
+                </div>
+               
+               
+                <button class="read">Gönder</button>
+
+            </form>
+
+        </div>
+       
+        <div class="clear"></div>
+        <div class="contact-bottom">
+            <div class="contact-left">
+                <div class="contact-add">
+                    <h3>Adres</h3>
+                    <p>Ankara/Türkiye</p>
+                    <p>Telefon : 055555555</p>
+                    <p>Fax:1-22-5555</p>
+                    <p>Email:<a href="mailto:signup@gmail.com">signup@mail.com</a></p>
+                </div>
+               
+            </div>
+            
+            
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
