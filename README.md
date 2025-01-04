@@ -3,25 +3,25 @@
 <h2>Projenin Canlı Hali İçin <a href="http://travelblog.somee.com/">Buraya Tıklayınız</a></h2>
 <br/>
 <h3>Proje Özellikleri</h3>
-✔️ Kullanıcılar, seyahatlerini fotoğraflar eşliğinde siteye yükleyebilir.
-✔️ Blog yazılarına yorum yapma imkânı sunulmuştur.
-✔️ En popüler ve en beğenilen yerler görüntülenebilir.
-✔️ Kullanıcılar, login ve register işlemleri ile sisteme giriş yapabilir.
+<p>✔️ Kullanıcılar, seyahatlerini fotoğraflar eşliğinde siteye yükleyebilir.</p>
+<p>✔️ Blog yazılarına yorum yapma imkânı sunulmuştur.</p>
+<p>✔️ En popüler ve en beğenilen yerler görüntülenebilir.</p>
+<p>✔️ Kullanıcılar, login ve register işlemleri ile sisteme giriş yapabilir.</p>
 <br>
 <h3>Admin Paneli Özellikleri</h3>
-✔️ Blog yazıları ve kullanıcı yorumları güncellenebilir, silinebilir veya yeni içerikler eklenebilir.
-✔️ Kullanıcı tarafında iletilen mesajlar görüntülenip silinebilir. 
-✔️ Kullanıcı tarafından yapılan yorumlar için silme ve güncelleme işlemleri yapılabilir.
-✔️ Admin panelinden site arayüzüne geçiş yapılabilir.
-✔️ Admin panelinden çıkış yapıldığında kullanıcı login sayfasına yönlendirilir.
+<p>✔️ Blog yazıları ve kullanıcı yorumları güncellenebilir, silinebilir veya yeni içerikler eklenebilir.</p>
+<p>✔️ Kullanıcı tarafında iletilen mesajlar görüntülenip silinebilir. </p>
+<p>✔️ Kullanıcı tarafından yapılan yorumlar için silme ve güncelleme işlemleri yapılabilir.</p>
+<p>✔️ Admin panelinden site arayüzüne geçiş yapılabilir.</p>
+<p>✔️ Admin panelinden çıkış yapıldığında kullanıcı login sayfasına yönlendirilir.</p>
 <br />
 <h3>Kullanılan Teknolojiler</h3>
-✔️ ASP.NET MVC 5 tabanlı bir proje.
-✔️ Code First yaklaşımı ile veritabanı oluşturuldu.
-✔️ CRUD işlemleri (Create, Read, Update, Delete) uygulandı.
-✔️ LINQ sorguları kullanılarak veri erişimi sağlandı.
-✔️ Daha iyi bir kullanıcı deneyimi için Partial View yapısı eklendi.
-✔️ Arayüz iyileştirmeleri için HTML, CSS, ve Bootstrap teknolojilerinden faydalanıldı.
+<p>✔️ ASP.NET MVC 5 tabanlı bir proje.</p>
+<p>✔️ Code First yaklaşımı ile veritabanı oluşturuldu.</p>
+<p>✔️ CRUD işlemleri (Create, Read, Update, Delete) uygulandı.</p>
+<p>✔️ LINQ sorguları kullanılarak veri erişimi sağlandı.</p>
+<p>✔️ Daha iyi bir kullanıcı deneyimi için Partial View yapısı eklendi.</p>
+<p>✔️ Arayüz iyileştirmeleri için HTML, CSS, ve Bootstrap teknolojilerinden faydalanıldı.</p>
 <br/>
 
 <h3>Site İçi Resimler</h3>
