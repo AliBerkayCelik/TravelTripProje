@@ -25,7 +25,7 @@
 <br/>
 
 <h3>Site İçi Resimler</h3>
-![tatil1](https://github.com/user-attachments/assets/fcbed9ab-caf2-4468-ba87-bc732b97913a)
+[tatil1](https://github.com/user-attachments/assets/fcbed9ab-caf2-4468-ba87-bc732b97913a)
 <br>
 ![tatil2](https://github.com/user-attachments/assets/e1d72928-867b-4614-b631-422e16a32305)
 <br>
