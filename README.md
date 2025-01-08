@@ -1,7 +1,7 @@
 <h1>TATİL SEYEHAT PROJESİ</h1>
 <br>
 <h2>Projenin Canlı Hali İçin <a href="http://travelblog.somee.com/">Buraya Tıklayınız</a></h2>
-<br/>
+<br>
 <h3>Proje Özellikleri</h3>
 <p>✔️ Blog yazılarına yorum yapma imkânı sunulmuştur.</p>
 <p>✔️ En popüler ve en beğenilen yerler görüntülenebilir.</p>
@@ -22,10 +22,11 @@
 <p>✔️ LINQ sorguları kullanılarak veri erişimi sağlandı.</p>
 <p>✔️ Daha iyi bir kullanıcı deneyimi için Partial View yapısı eklendi.</p>
 <p>✔️ Arayüz iyileştirmeleri için HTML, CSS, ve Bootstrap teknolojilerinden faydalanıldı.</p>
-<br/>
+<br>
 
 <h3>Site İçi Resimler</h3>
-[tatil1](https://github.com/user-attachments/assets/fcbed9ab-caf2-4468-ba87-bc732b97913a)
+
+![tatil1](https://github.com/user-attachments/assets/787f5c22-97c7-444c-bb00-a70e31095444)
 <br>
 ![tatil2](https://github.com/user-attachments/assets/e1d72928-867b-4614-b631-422e16a32305)
 <br>
